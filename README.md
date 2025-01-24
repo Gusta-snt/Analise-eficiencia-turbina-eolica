@@ -2,6 +2,8 @@
 
 Este projeto de análise de dados foi desenvolvido como parte do meu portfólio, com o objetivo de avaliar a eficiência de uma turbina eólica com base na potência real gerada e na potência teórica esperada para diferentes velocidades do vento.
 
+OBS: Você pode abrir o arquivo "Análise_Turbina_Eólica.ipynb" e ler neste mesmo site.
+
 ## Objetivo
 
 A principal meta deste estudo é verificar se a turbina eólica em questão está operando de forma eficiente. Para isso, comparamos a potência real gerada com a potência teórica que a turbina deveria gerar, conforme a velocidade do vento registrada. A análise se baseia nos seguintes passos:
