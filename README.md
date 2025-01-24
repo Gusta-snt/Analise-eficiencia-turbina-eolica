@@ -33,12 +33,7 @@ O projeto está organizado da seguinte forma:
    git clone https://github.com/Gusta-snt/Analise-eficiencia-turbina-eolica.git
    cd Analise-eficiencia-turbina-eolica
 
-2. **Instale as Dependências**:
-  Certifique-se de ter o Python e o pip instalados. Em seguida, instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-
-3. **Execute a Análise**:
+2. **Execute a Análise**:
   Execute o Jupyter Notebook Análise_Turbina_Eólica.ipynb para reproduzir os resultados e visualizações.
 
 Você também pode utilizar o google colab. Basta fazer o download do notebook e do csv, abrir o notebook no ambiente do colab e fazer o upload do csv na mesma pasta.
